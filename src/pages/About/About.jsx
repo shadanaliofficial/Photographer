@@ -189,4 +189,4 @@ const About = () => {
   );
 };
 
-export default Transition(About);
+export default Transition(About);  
