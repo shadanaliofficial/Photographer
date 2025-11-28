@@ -143,10 +143,10 @@ const Home = () => {
 
           <div className="hero-header">
             <AnimatedCopy tag="h1" animateOnScroll={false} delay={0.7}>
-              Nico
+              ASAMWARS
             </AnimatedCopy>
             <AnimatedCopy tag="h1" animateOnScroll={false} delay={0.8}>
-              Palmer
+              STUDIO
             </AnimatedCopy>
           </div>
         </section>
@@ -173,7 +173,7 @@ const Home = () => {
 
         <section ref={stickyWorkHeaderRef} className="sticky-work-header">
           <AnimatedCopy tag="h1" animateOnScroll="true">
-            Palmer selects
+            Asamwars Studio
           </AnimatedCopy>
         </section>
 

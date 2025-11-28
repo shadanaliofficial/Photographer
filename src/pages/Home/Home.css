@@ -132,6 +132,10 @@
     padding: 1.25em;
   }
 
+  .hero-header h1 {
+    font-size: 3em;
+  }
+
   .sticky-titles h2 {
     width: 90%;
   }
